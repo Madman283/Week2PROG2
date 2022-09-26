@@ -19,7 +19,7 @@ namespace Week2PROG
             get => name;
             set
             {
-
+                name = value;
             }
         }
         public void NewName()
@@ -55,6 +55,8 @@ namespace Week2PROG
             //    Value = 52.10
             //}
         };
+
+        
 
         public string ListOfInventory()
         {

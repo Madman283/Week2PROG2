@@ -8,6 +8,6 @@ namespace Week2PROG
 {
     internal class NPC
     {
-
+    
     }
 }
