@@ -44,6 +44,7 @@ namespace Week2PROG
             {
                 case "1":
                     //inventory
+                    Print(Player.ListOfInventory());
                     break;
                 case "2": Player.NewName();
                     //Change your name

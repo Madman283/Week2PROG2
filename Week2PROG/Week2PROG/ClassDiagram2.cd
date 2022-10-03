@@ -10,21 +10,21 @@
   <Class Name="Week2PROG.Item">
     <Position X="2" Y="2.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAQgAAAAAAAAAAAAASAAAAAAAABAAAgBAAAAAA=</HashCode>
       <FileName>Item.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Week2PROG.Person">
     <Position X="4.25" Y="2.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAQACAAEAAgIAAAAAgAAAAA=</HashCode>
       <FileName>Person.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Week2PROG.CraftingStation">
     <Position X="0.5" Y="2.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAgCAAAAAAAAAAAAAAAAAAAAIBAAAAAQAAAAA=</HashCode>
       <FileName>CraftingStation.cs</FileName>
     </TypeIdentifier>
   </Class>

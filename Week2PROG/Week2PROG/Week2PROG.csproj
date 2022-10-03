@@ -44,11 +44,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CraftingStation.cs" />
+    <Compile Include="Display.cs" />
+    <Compile Include="Iinterface.cs" />
     <Compile Include="Item.cs" />
     <Compile Include="NPC.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Staff.cs" />
     <Compile Include="Utility.cs" />
   </ItemGroup>
   <ItemGroup>

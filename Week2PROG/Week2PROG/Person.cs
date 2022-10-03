@@ -46,6 +46,15 @@ namespace Week2PROG
                 Value = 10,
             },
 
+            new Staff()
+            {
+                Name = "Staff",
+                Amount = 1,
+                Value = 10,
+                
+
+            },
+
 
             //new Item("Map", 3.4), //uses constuctor
 
@@ -63,7 +72,12 @@ namespace Week2PROG
             string listed = "";
             foreach(Item i in Inventory)
             {
-                listed += i.DescriptionOfItems() + Environment.NewLine;
+                listed += i.DescriptionOfItems();
+                if (i is Iinterface)
+                {
+                    listed += " Magic";
+                }
+                listed += Environment.NewLine;
             }
             return listed;
         }
